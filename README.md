@@ -30,14 +30,6 @@
 
 ---
 
-<div align="center">
-  
-  ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorvinicius&show_icons=true&theme=tokyonight)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorvinicius&layout=compact&theme=tokyonight)
-  
-</div>
-
 ## 📫 Como me encontrar
 <div align="center">
   
