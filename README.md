@@ -1,11 +1,11 @@
 #  Olá, eu sou o Igor Vinicius
 
-💻 Desenvolvedor junior
+ * Desenvolvedor junior
 
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 - Estudante de **Desenvolvimento de Sistemas**  
 - Atualmente desenvolvo projetos com foco em **automação, controle de estoque e sistemas web**  
 - Experiência com **C#, Python, MySQL** e **HTML/CSS/JavaScript**  
