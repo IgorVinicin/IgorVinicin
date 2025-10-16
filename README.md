@@ -1,22 +1,22 @@
-# 👋 Olá, eu sou o Igor Vinicius
+#  Olá, eu sou o Igor Vinicius
 
-💻 Desenvolvedor apaixonado por tecnologia, inovação e automação.  
-🎯 Sempre em busca de melhorar minhas habilidades e criar soluções que façam a diferença.
+💻 Desenvolvedor junior
+
 
 ---
 
 ## 🚀 Sobre mim
-- 🧠 Estudante de **Desenvolvimento de Sistemas**  
-- 💼 Atualmente desenvolvo projetos com foco em **automação, controle de estoque e sistemas web**  
-- ⚙️ Experiência com **C#, Python, MySQL** e **HTML/CSS/JavaScript**  
-- 🧩 Já desenvolvi projetos como:
+- Estudante de **Desenvolvimento de Sistemas**  
+- Atualmente desenvolvo projetos com foco em **automação, controle de estoque e sistemas web**  
+- Experiência com **C#, Python, MySQL** e **HTML/CSS/JavaScript**  
+- Já desenvolvi projetos como:
   - **Sistema de controle de estoque** (entrada/saída e cálculo de faturamento)
   - **Automação de cadastro de produtos** via **Python + Excel**
   - **Sistema escolar** com registro de atrasos, relatórios e notificações automáticas
 
 ---
 
-## 🧰 Tecnologias que uso
+##  Tecnologias que utilizo com frequência
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,7 +30,7 @@
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vinicius-6bb571283)
@@ -40,4 +40,3 @@
 
 ---
 
-⭐ *“O sucesso é a soma de pequenos esforços repetidos dia após dia.”*  
