@@ -1,14 +1,15 @@
 #  Olá, eu sou o Igor Vinicius
 
  * Desenvolvedor junior
+ * Estudante de Engenharia de Software
 
 
 ---
 
 ## Sobre mim
-- Estudante de **Desenvolvimento de Sistemas**  
+- Técnico em **Desenvolvimento de Sistemas**  
 - Atualmente desenvolvo projetos com foco em **automação, controle de estoque e sistemas web**  
-- Experiência com **C#, Python, MySQL** e **HTML/CSS/JavaScript**  
+- Experiência com **C#, Python, MySQL** e **HTML/CSS/JavaScript/Angular**  
 - Já desenvolvi projetos como:
   - **Sistema de controle de estoque** (entrada/saída e cálculo de faturamento)
   - **Automação de cadastro de produtos** via **Python + Excel**
