@@ -9,7 +9,7 @@
 ## Sobre mim
 - Técnico em **Desenvolvimento de Sistemas**  
 - Atualmente desenvolvo projetos com foco em **automação, controle de estoque e sistemas web**  
-- Experiência com **C#, Python, MySQL** e **HTML/CSS/JavaScript/Angular**  
+- Experiência com **C#, Python, .Net, MySQL/SQL Server** e **HTML/CSS/JavaScript/Angular**  
 - Já desenvolvi projetos como:
   - **Sistema de controle de estoque** (entrada/saída e cálculo de faturamento)
   - **Automação de cadastro de produtos** via **Python + Excel**
