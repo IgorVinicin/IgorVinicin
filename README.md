@@ -1,43 +1,148 @@
-#  Olá, eu sou o Igor Vinicius
-
- * Desenvolvedor junior
- * Estudante de Engenharia de Software
-
-
----
-
-## Sobre mim
-- Técnico em **Desenvolvimento de Sistemas**  
-- Atualmente desenvolvo projetos com foco em **automação, controle de estoque e sistemas web**  
-- Experiência com **C#, Python, .Net, MySQL/SQL Server** e **HTML/CSS/JavaScript/Angular**  
-- Já desenvolvi projetos como:
-  - **Sistema de controle de estoque** (entrada/saída e cálculo de faturamento)
-  - **Automação de cadastro de produtos** via **Python + Excel**
-  - **Sistema escolar** com registro de atrasos, relatórios e notificações automáticas
-
----
-
-##  Tecnologias que Domino
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
+
+#  Igor Vinicius
+
+### Software Engineering Student • Full Stack Developer • Backend Focused
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=C%23+%2F+.NET+Developer;Angular+%26+TypeScript+Enthusiast;Building+real-world+systems+and+automations;Always+learning+new+technologies" />
+</p>
+
 </div>
 
 ---
 
-##  Como me encontrar
+#  About Me
+
+I'm a Software Engineering student passionate about building scalable applications, automation systems, and real-world software solutions.
+
+Before starting college, I already had a strong foundation in software development through a technical program in Systems Development, where I started creating practical projects and improving my problem-solving skills.
+
+Currently focused on becoming a strong **Full Stack Developer**, with emphasis on:
+
+- Backend Development with C# and .NET
+- REST APIs
+- Angular & TypeScript
+- Database Modeling
+- Software Architecture
+- Automation with Python
+- Clean Code & Best Practices
+
+---
+
+#  Tech Stack
+
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vinicius-6bb571283)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaraujopecedossantos@gmail.com)
-  
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python,mysql" />
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,html,css" />
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
+## Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+
 </div>
 
 ---
 
+# 📌 Featured Projects
+
+## 📦 Inventory Management System
+
+Desktop system developed in C# integrated with database management for inventory operations.
+
+### Features
+- Stock control
+- User management
+- Revenue reports
+- Product movement tracking
+
+---
+
+## 🤖 Product Registration Automation
+
+Python automation that reads Excel spreadsheets and automatically registers products into the system.
+
+### Goals
+- Reduce manual work
+- Increase productivity
+- Minimize operational errors
+
+---
+
+## 🧠 Student Delay Monitoring System (TCC)
+
+Academic project focused on tracking and analyzing student delays.
+
+### Features
+- Delay tracking
+- Daily, weekly and monthly reports
+- Notification system
+- Automated communication flow
+
+---
+
+## 🔐 Biometric Authentication System
+
+Biometric authentication project using the **DigitalPersona 4000B** fingerprint reader.
+
+### Features
+- Fingerprint registration
+- Biometric verification
+- Hardware integration
+- User-friendly interface
+
+---
+
+# 📚 Currently Learning
+
+- Advanced TypeScript
+- Angular
+- ASP.NET
+- Software Architecture
+- API Development
+- Software Testing
+- Scalable Backend Systems
+
+---
+
+# 🎯 Goals
+
+My goal is to grow as a software developer and work on impactful systems that solve real problems.
+
+I’m constantly improving my skills in:
+- Backend Engineering
+- Full Stack Development
+- Cloud Technologies
+- Software Architecture
+- Artificial Intelligence for Development Productivity
+
+---
+
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-vinicius-6bb571283)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaraujopecedossantos@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Always learning, building and evolving.
+
+</div>
