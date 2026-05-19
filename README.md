@@ -54,68 +54,7 @@ Currently focused on becoming a strong **Full Stack Developer**, with emphasis o
 
 ---
 
-# 📌 Featured Projects
-
-## 📦 Inventory Management System
-
-Desktop system developed in C# integrated with database management for inventory operations.
-
-### Features
-- Stock control
-- User management
-- Revenue reports
-- Product movement tracking
-
----
-
-## 🤖 Product Registration Automation
-
-Python automation that reads Excel spreadsheets and automatically registers products into the system.
-
-### Goals
-- Reduce manual work
-- Increase productivity
-- Minimize operational errors
-
----
-
-## 🧠 Student Delay Monitoring System (TCC)
-
-Academic project focused on tracking and analyzing student delays.
-
-### Features
-- Delay tracking
-- Daily, weekly and monthly reports
-- Notification system
-- Automated communication flow
-
----
-
-## 🔐 Biometric Authentication System
-
-Biometric authentication project using the **DigitalPersona 4000B** fingerprint reader.
-
-### Features
-- Fingerprint registration
-- Biometric verification
-- Hardware integration
-- User-friendly interface
-
----
-
-# 📚 Currently Learning
-
-- Advanced TypeScript
-- Angular
-- ASP.NET
-- Software Architecture
-- API Development
-- Software Testing
-- Scalable Backend Systems
-
----
-
-# 🎯 Goals
+#  Goals
 
 My goal is to grow as a software developer and work on impactful systems that solve real problems.
 
