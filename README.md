@@ -1,91 +1,116 @@
-# Olá, eu sou o Igor
+# Igor V.
 
-Estudante de Engenharia de Software e desenvolvedor em formação, interessado principalmente em desenvolvimento backend, APIs e construção de sistemas web.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Backend+%26+Full+Stack;C%23+%7C+.NET+%7C+TypeScript+%7C+Angular;Construindo+sistemas+que+realmente+funcionam." />
+</p>
 
-Atualmente estou focado em evoluir minha experiência com **C#, .NET, TypeScript e Angular**, buscando entender cada vez mais não apenas como desenvolver uma aplicação, mas também como estruturar, testar, otimizar e manter um sistema de verdade.
+---
 
 ## Sobre mim
 
-* Estudante de **Engenharia de Software**
-* Técnico em **Desenvolvimento de Sistemas**
-* Atualmente buscando minha primeira oportunidade profissional em TI
-* Interesse principal em **Backend, Full Stack e desenvolvimento de sistemas**
-* Experiência desenvolvendo projetos acadêmicos, pessoais e para clientes
-* Gosto de aprender na prática, principalmente colocando projetos para funcionar e entendendo o que existe por trás deles
+Sou estudante de **Engenharia de Software** e desenvolvedor em formação, atualmente focado em **backend, APIs e aplicações full stack**.
 
-## Stack
+Minha stack principal gira em torno de **C#, .NET, TypeScript e Angular**, mas também trabalho com React, Python, bancos de dados, Docker e APIs REST.
 
-### Backend
+Gosto de entender como as coisas funcionam por trás do código — desde modelagem de banco e arquitetura de APIs até integração entre sistemas, performance e deploy.
 
-* C#
-* .NET / ASP.NET Core
-* Python
-* Node.js
-* REST APIs
-* Entity Framework Core
-* JWT / autenticação
+Atualmente, estou buscando minha primeira oportunidade profissional em desenvolvimento de software.
 
-### Frontend
+---
 
-* TypeScript
-* Angular
-* React
-* HTML
-* CSS
-* Tailwind CSS
+## Minha stack
 
-### Banco de dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,python,nodejs,postgres,mysql,mongodb,docker,git,github,postman" />
+</p>
 
-* MySQL
-* PostgreSQL
-* SQL Server
-* MongoDB
+```text
+Backend       C# · .NET · ASP.NET Core · Python · Node.js
+Frontend      TypeScript · Angular · React · HTML · CSS · Tailwind
+Banco de dados PostgreSQL · MySQL · SQL Server · MongoDB
+Ferramentas   Git · GitHub · Docker · Postman · Figma · Vite
+Conceitos     REST APIs · JWT · Entity Framework · Autenticação
+```
 
-### Ferramentas e outros
+---
 
-* Git / GitHub
-* Docker
-* Linux
-* Vite
-* Postman
-* Figma
-* APIs e integrações
-* Automação de processos
+## No que estou trabalhando
 
-## Projetos
+### Sistema P2P
 
-Alguns dos projetos em que venho trabalhando envolvem:
+Plataforma web voltada para gerenciamento de clientes, investidores e operações de crédito.
 
-**Sistemas de gestão e atendimento**
-Desenvolvimento e manutenção de aplicações para processos internos, atendimento, CRM e automação.
+**Tecnologias:** C# · ASP.NET Core · Entity Framework Core · PostgreSQL · JWT · Angular
 
-**Sistema P2P**
-Aplicação web para gerenciamento de clientes, investidores e operações de crédito, utilizando ASP.NET Core, Entity Framework, PostgreSQL, JWT e Angular.
+### Pontualize
 
-**Pontualize**
-Sistema desenvolvido como projeto técnico para controle de entrada e saída de alunos, utilizando C#, Windows Forms, MySQL e biometria.
+Sistema de controle de entrada e saída de alunos desenvolvido como projeto técnico, com integração de identificação biométrica e gerenciamento de registros.
 
-**Projetos Web**
-Landing pages, sistemas administrativos e aplicações utilizando React, TypeScript, Tailwind e integrações com serviços externos.
+**Tecnologias:** C# · Windows Forms · MySQL · DigitalPersona
+
+### Sistemas e projetos para empresas
+
+Desenvolvimento e manutenção de sistemas envolvendo CRM, atendimento, automações, dashboards e integrações com serviços externos.
+
+---
 
 ## Atualmente estudando
 
-Minha prioridade atual é aprofundar meus conhecimentos em:
+```text
+C#
+ └── ASP.NET Core
+      ├── APIs REST
+      ├── Entity Framework Core
+      ├── Autenticação
+      └── Arquitetura
 
-**C# → ASP.NET Core → APIs → Entity Framework → PostgreSQL → Angular**
+TypeScript
+ └── Angular
+      ├── Componentes
+      ├── Serviços
+      ├── Integração com APIs
+      └── Arquitetura de aplicações
+```
 
-Além da parte técnica, também venho estudando arquitetura de sistemas, Git/GitHub, boas práticas de desenvolvimento, performance, testes e uso de IA como ferramenta de apoio ao desenvolvimento.
+Também venho estudando **arquitetura de software, testes, performance, Git, Docker e boas práticas de desenvolvimento**.
 
-## Um pouco além do código
+Uso ferramentas de IA como parte do meu processo de desenvolvimento, mas com foco em entender o código, as decisões técnicas e o funcionamento do sistema.
 
-Gosto de trabalhar em projetos onde preciso entender o problema antes de pensar na solução.
+---
 
-Também tenho interesse em infraestrutura, automação, arquitetura e na parte de produto de um sistema. Para mim, desenvolver não é apenas escrever código, mas entender como as diferentes partes de uma aplicação se conectam.
+## Além do código
 
-Ainda estou construindo minha experiência profissional, mas gosto de aprender rápido, colocar a mão no código e transformar ideias em projetos funcionando.
+Gosto de projetos que tenham um problema real para resolver, e não apenas mais um CRUD.
 
-## Contato
+Tenho interesse em **arquitetura de software, automação, infraestrutura, produto e desenvolvimento de sistemas**.
 
-Estou aberto a oportunidades de estágio e posições júnior em desenvolvimento de software, especialmente nas áreas de **Backend, .NET e Full Stack**.
+Gosto especialmente de pegar uma ideia, entender o problema, construir a solução e descobrir no caminho tudo aquilo que eu ainda não sabia.
 
-[LinkedIn](SEU_LINKEDIN) · [Portfolio](SEU_PORTFOLIO)
+Ainda estou construindo minha experiência profissional.
+
+Mas já estou construindo coisas.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Onde me encontrar
+
+<p align="center">
+  <a href="SEU_LINKEDIN">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="SEU_PORTFOLIO">Portfólio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:SEU_EMAIL">Email</a>
+</p>
+
+<p align="center">
+  <sub>Construindo, aprendendo e colocando as coisas para funcionar.</sub>
+</p>
