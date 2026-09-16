@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 Igor Vinicius
-### 💻 Estudante de Engenharia de Software | Desenvolvedor Full Stack
+#  Igor Vinicius
+### Estudante de Engenharia de Software | Desenvolvedor Full Stack
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Engenharia+de+Software+%26+DSM;Desenvolvedor+Backend+%26+Full+Stack;C%23+%7C+.NET+%7C+TypeScript+%7C+Angular;Transformando+ideias+em+sistemas+robustos." />
@@ -15,17 +15,17 @@
 
 </div>
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou estudante de **Engenharia de Software** e **Desenvolvimento de Software Multiplataforma (DSM)**, focado no ecossistema **Backend, APIs RESTful e Aplicações Full Stack**.
 
-- 🎯 **Foco Principal:** C#, .NET, TypeScript e Angular.
-- 🛠️ **Áreas de Interesse:** Arquitetura de Software, Modelagem de Bancos de Dados, Performance e Segurança em APIs.
-- 💡 **O que procuro:** Minha primeira oportunidade profissional em Desenvolvimento de Software para impactar negócios com código eficiente.
+-  **Foco Principal:** C#, .NET, TypeScript e Angular.
+-  **Áreas de Interesse:** Arquitetura de Software, Modelagem de Bancos de Dados, Performance e Segurança em APIs.
+-  **O que procuro:** Minha primeira oportunidade profissional em Desenvolvimento de Software para impactar negócios com código eficiente.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,python,nodejs,postgres,mysql,mongodb,docker,git,github,postman,tailwind,vite" />
@@ -41,12 +41,12 @@ Sou estudante de **Engenharia de Software** e **Desenvolvimento de Software Mult
 
 ---
 
-## 📈 Atualmente Aprofundando
+##  Atualmente Aprofundando
 
 <div align="center">
 
 ```text
-⚡ C# & .NET                                🌐 TypeScript & Angular
+ C# & .NET                                  TypeScript & Angular
 ├── ASP.NET Core Web APIs                  ├── Componentes e Diretivas
 ├── Entity Framework Core (ORM)            ├── RxJS e Serviços
 ├── Autenticação & JWT                     ├── Consumo e Integração de APIs REST
