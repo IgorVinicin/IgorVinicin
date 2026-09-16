@@ -55,14 +55,6 @@ TypeScript
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IgorVinicin&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVinicin&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
 
 ## Onde me encontrar
 
