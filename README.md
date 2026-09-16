@@ -1,71 +1,53 @@
-# Igor V.
+<div align="center">
+
+# 🚀 Igor Vinicius
+### 💻 Estudante de Engenharia de Software | Desenvolvedor Full Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Backend+%26+Full+Stack;C%23+%7C+.NET+%7C+TypeScript+%7C+Angular;Construindo+sistemas+que+realmente+funcionam." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Engenharia+de+Software+%26+DSM;Desenvolvedor+Backend+%26+Full+Stack;C%23+%7C+.NET+%7C+TypeScript+%7C+Angular;Transformando+ideias+em+sistemas+robustos." />
 </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vinicius-6bb571283/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioaraujo.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaraujopecedossantos@gmail.com)
 
 ---
 
-## Sobre mim
+</div>
 
-Sou estudante de **DSM - Desenvolvimento de Softwares Multiplataforma** e desenvolvedor em formação, atualmente focado em **backend, APIs e aplicações full stack**.
+## 👨‍💻 Sobre Mim
 
-Minha stack principal gira em torno de **C#, .NET, TypeScript e Angular**, mas também trabalho com React, Python, bancos de dados, Docker e APIs REST.
+Sou estudante de **Engenharia de Software** e **Desenvolvimento de Software Multiplataforma (DSM)**, focado no ecossistema **Backend, APIs RESTful e Aplicações Full Stack**.
 
-Gosto de entender como as coisas funcionam por trás do código — desde modelagem de banco e arquitetura de APIs até integração entre sistemas, performance e deploy.
-
-Atualmente, estou buscando minha primeira oportunidade profissional em desenvolvimento de software.
+- 🎯 **Foco Principal:** C#, .NET, TypeScript e Angular.
+- 🛠️ **Áreas de Interesse:** Arquitetura de Software, Modelagem de Bancos de Dados, Performance e Segurança em APIs.
+- 💡 **O que procuro:** Minha primeira oportunidade profissional em Desenvolvimento de Software para impactar negócios com código eficiente.
 
 ---
 
-## Minha stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,python,nodejs,postgres,mysql,mongodb,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,python,nodejs,postgres,mysql,mongodb,docker,git,github,postman,tailwind,vite" />
 </p>
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | `C#` `.NET` `ASP.NET Core` `Entity Framework` `Node.js` `Python` |
+| **Frontend** | `TypeScript` `Angular` `React` `Tailwind CSS` `HTML5` `CSS3` |
+| **Bancos de Dados** | `PostgreSQL` `MySQL` `SQL Server` `MongoDB` |
+| **DevOps & Ferramentas** | `Docker` `Git` `GitHub` `Postman` `Vite` `Figma` |
+| **Conceitos** | `REST APIs` `JWT` `Autenticação` `Arquitetura de Software` |
+
+---
+
+## 📈 Atualmente Aprofundando
+
+<div align="center">
 
 ```text
-Backend       C# · .NET · ASP.NET Core · Python · Node.js
-Frontend      TypeScript · Angular · React · HTML · CSS · Tailwind
-Banco de dados PostgreSQL · MySQL · SQL Server · MongoDB
-Ferramentas   Git · GitHub · Docker · Postman · Figma · Vite
-Conceitos     REST APIs · JWT · Entity Framework · Autenticação
-```
-
----
-**Tecnologias:** C# · Windows Forms · MySQL · DigitalPersona
-
-## Atualmente estudando
-
-```text
-C#
- └── ASP.NET Core
-      ├── APIs REST
-      ├── Entity Framework Core
-      ├── Autenticação
-      └── Arquitetura
-
-TypeScript
- └── Angular
-      ├── Componentes
-      ├── Serviços
-      ├── Integração com APIs
-      └── Arquitetura de aplicações
-```
-
----
-
-
-## Onde me encontrar
-
-<p align="center">
-  <a href="(https://www.linkedin.com/in/igor-vinicius-6bb571283/)">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://portfolioaraujo.vercel.app/">Portfólio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:iaraujopecedossantos@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <sub>Construindo, aprendendo e colocando as coisas para funcionar.</sub>
-</p>
+⚡ C# & .NET                                🌐 TypeScript & Angular
+├── ASP.NET Core Web APIs                  ├── Componentes e Diretivas
+├── Entity Framework Core (ORM)            ├── RxJS e Serviços
+├── Autenticação & JWT                     ├── Consumo e Integração de APIs REST
+└── Arquitetura Limpa / DDD                └── Arquitetura Limpa no Frontend
