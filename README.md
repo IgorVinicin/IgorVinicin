@@ -6,9 +6,6 @@
 
 ### Estudante de Engenharia de Software | Desenvolvedor Full Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Engenharia+de+Software+%26+DSM;Desenvolvedor+Backend+%26+Full+Stack;C%23+%7C+.NET+%7C+TypeScript+%7C+Angular;Transformando+ideias+em+sistemas+robustos." />
-</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-vinicius-6bb571283/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioaraujo.vercel.app/)
@@ -27,12 +24,6 @@ Sou estudante de  **Desenvolvimento de Software Multiplataforma (DSM)**, focado 
 -  **O que procuro:** Minha primeira oportunidade profissional em Desenvolvimento de Software para impactar negócios com código eficiente.
 
 ---
-
-##  Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,react,python,nodejs,postgres,mysql,mongodb,docker,git,github,postman,tailwind,vite" />
-</p>
 
 | Categoria | Tecnologias |
 | :--- | :--- |
