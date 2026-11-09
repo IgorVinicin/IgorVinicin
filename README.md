@@ -17,7 +17,7 @@
 
 ##  Sobre Mim
 
-Sou estudante de **Engenharia de Software** e **Desenvolvimento de Software Multiplataforma (DSM)**, focado no ecossistema **Backend, APIs RESTful e Aplicações Full Stack**.
+Sou estudante de  **Desenvolvimento de Software Multiplataforma (DSM)**, focado no ecossistema **Backend, APIs RESTful e Aplicações Full Stack**.
 
 -  **Foco Principal:** C#, .NET, TypeScript e Angular.
 -  **Áreas de Interesse:** Arquitetura de Software, Modelagem de Bancos de Dados, Performance e Segurança em APIs.
