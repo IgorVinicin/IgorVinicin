@@ -1,6 +1,9 @@
 <div align="center">
 
-#  Igor Vinicius
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Igor Vinicius - Desenvolvedor de Software">
+</div>
+
 ### Estudante de Engenharia de Software | Desenvolvedor Full Stack
 
 <p align="center">
